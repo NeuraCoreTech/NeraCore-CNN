@@ -126,6 +126,7 @@ python model1/train.py image.png --para --beam=5 --debug
 ![Harry Potter text](./codes/model1/text_harry.png)
 
 **OCR Output:**
+
 ![OCR Output](./codes/model1/OCROutput.png)
 ---
 
@@ -197,7 +198,7 @@ python model2/train.py image.png --para --beam=5 --enhance
 # Debug mode
 python model2/train.py image.png --para --debug
 ```
-PS: THis model test accuracy is not optimal yet and must be improved before use.
+PS: This model test accuracy is not optimal yet and must be improved before use.
 ---
 
 ## Hardware Target
