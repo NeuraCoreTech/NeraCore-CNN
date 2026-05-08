@@ -119,14 +119,14 @@ python model1/train.py image.png --para --beam=5 --debug
 
 **Paragraph input test (`test_para.png`):**
 
-![Paragraph test](./models/model1/test_para.png)
+![Paragraph test](./codes/model1/test_para.png)
 
 **Harry Potter text test (`text_harry.png`):**
 
-![Harry Potter text](./models/model1/text_harry.png)
+![Harry Potter text](./codes/model1/text_harry.png)
 
 **OCR Output:**
-![OCR Output](./models/model1/OCROutput.png)
+![OCR Output](./codes/model1/OCROutput.png)
 ---
 
 ## Model v2
