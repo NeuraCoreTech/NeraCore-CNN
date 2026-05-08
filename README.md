@@ -115,18 +115,18 @@ python model1/train.py image.png --para --beam=5 --debug
 
 ### Screenshots
 
-> *(Insert your test screenshots here)*
 
-Replace the placeholders below with actual images once you commit the screenshots to the repository.
 
 **Paragraph input test (`test_para.png`):**
 
-![Paragraph test](model1/test_para.png)
+![Paragraph test](./models/model1/test_para.png)
 
 **Harry Potter text test (`text_harry.png`):**
 
-![Harry Potter text](model1/text_harry.png)
+![Harry Potter text](./models/model1/text_harry.png)
 
+**OCR Output:**
+![OCR Output](./models/model1/OCROutput.png)
 ---
 
 ## Model v2
@@ -197,7 +197,7 @@ python model2/train.py image.png --para --beam=5 --enhance
 # Debug mode
 python model2/train.py image.png --para --debug
 ```
-
+PS: THis model test accuracy is not optimal yet and must be improved before use.
 ---
 
 ## Hardware Target
