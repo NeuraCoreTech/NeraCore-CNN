@@ -239,3 +239,9 @@ data_line/
 ```
 
 Dataset generation scripts (`generate_dataset.py`) render synthetic text lines using system fonts at randomised sizes, augmented with noise and distortion. For model v2, all generated lines are fixed at **480 px width**.
+
+--- 
+
+## Contributer
+
+-Arnav Yadnopavit 
