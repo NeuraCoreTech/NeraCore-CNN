@@ -244,4 +244,4 @@ Dataset generation scripts (`generate_dataset.py`) render synthetic text lines u
 
 ## Contributer
 
--Arnav Yadnopavit 
+- Arnav Yadnopavit 
